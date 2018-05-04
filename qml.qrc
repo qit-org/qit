@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/ApplicationWindow.qml</file>
+        <file>qml/Main.qml</file>
+        <file>qml/StatusBar.qml</file>
+        <file>qml/OverlayMenu.qml</file>
+        <file>qml/RepositoryView.qml</file>
+        <file>qml/RepositoryViewHeader.qml</file>
+        <file>qml/MenuButton.qml</file>
+        <file>qml/styling/MenuStyle.qml</file>
+        <file>qml/styling/qmldir</file>
+    </qresource>
+</RCC>
